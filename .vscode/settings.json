@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.cfg": "coffeescript",
+        "*.in": "cpp"
+    }
+}
